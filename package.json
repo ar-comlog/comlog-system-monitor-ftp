@@ -1,6 +1,6 @@
 {
   "name": "comlog-system-monitor-ftp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "comlog-system-monitor-ftp.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "COMLOG GmbH",
   "dependencies": {
     "comlog-event-handler": "^1.0.2",
-    "ftp": "^0.3.8"
+    "ftp": ">=0.3.8"
   }
 }
